@@ -1,4 +1,5 @@
-Cluster 0: High Income, High Spending
+\bold Specifications of final Clusters
+📦 Cluster 0: High Income, High Spending
 Likely premium customers.
 
 Target them with luxury products, loyalty programs.
