@@ -1,4 +1,5 @@
-\bold Specifications of final Clusters
+\large {Specifications of final Clusters}
+
 📦 Cluster 0: High Income, High Spending
 Likely premium customers.
 
